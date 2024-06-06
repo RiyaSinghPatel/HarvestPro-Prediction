@@ -15,7 +15,7 @@ Data Visualization: Provides intuitive visualizations of data and predictions to
 
 User-Friendly Interface: Offers an easy-to-use interface for farmers to input data and access predictions.
 
-![Dashboard]![dashboard](https://github.com/RiyaSinghPatel/HarvestPro-Prediction-main/blob/main/Screenshot%202024-06-06%20110029.png)
+![Dashboard](https://github.com/RiyaSinghPatel/HarvestPro-Prediction-main/blob/main/dashboard.png)
 
 Project Description
 The application logic is contained in the app.py file. This file contains the Flask application and routes for the API endpoints.
