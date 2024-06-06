@@ -1,7 +1,7 @@
 HarvestPro-Prediction
 HarvestPro is an advanced agricultural prediction tool designed to forecast crop yields and optimize farming practices using machine learning and data analytics. This project leverages various data sources to provide accurate and actionable predictions to help farmers make informed decisions.
 
-image
+![Dashboard](https://github.com/RiyaSinghPatel/HarvestPro-Prediction-main/blob/main/Screenshot%202024-06-06%20110029.png)
 
 Features:
 
@@ -15,7 +15,7 @@ Data Visualization: Provides intuitive visualizations of data and predictions to
 
 User-Friendly Interface: Offers an easy-to-use interface for farmers to input data and access predictions.
 
-![Dashboard]![dashboard]("C:\Users\riyas\Downloads\HarvestPro-Prediction-main\Screenshot 2024-06-06 110029.png")
+![Dashboard]![dashboard](https://github.com/RiyaSinghPatel/HarvestPro-Prediction-main/blob/main/Screenshot%202024-06-06%20110029.png)
 
 Project Description
 The application logic is contained in the app.py file. This file contains the Flask application and routes for the API endpoints.
